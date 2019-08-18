@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite errors="0" failures="0" name="RestAPI.tests.EventTestCase-20190814191854" skipped="0" tests="4" time="10.532">
+		<testcase classname="RestAPI.tests.EventTestCase" name="test_delete_weather_records" time="3.236"/>
+		<testcase classname="RestAPI.tests.EventTestCase" name="test_get_all_weather_records" time="2.304"/>
+		<testcase classname="RestAPI.tests.EventTestCase" name="test_get_weather_by_lat_and_lon" time="2.456"/>
+		<testcase classname="RestAPI.tests.EventTestCase" name="test_get_weather_on_date" time="2.536"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testsuite>
+</testsuites>
